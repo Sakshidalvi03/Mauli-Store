@@ -9,17 +9,17 @@ The dataset contains over 31,000+ sales transactions, covering customer demograp
 
 🎯 Project Objectives
 
-*Analyze overall sales performance
+* Analyze overall sales performance
 
-*Identify top-performing sales channels
+* Identify top-performing sales channels
 
-*Compare sales by gender and age group
+* Compare sales by gender and age group
 
-*Track monthly sales trends
+* Track monthly sales trends
 
-*Identify high-performing states and cities
+* Identify high-performing states and cities
 
-*Evaluate order status distribution (Delivered, Cancelled, etc.)
+* Evaluate order status distribution (Delivered, Cancelled, etc.)
 
 Compare B2B vs B2C sales performance
 
@@ -41,77 +41,77 @@ Compare B2B vs B2C sales performance
 
 🛠 Tools & Techniques Used
 
-Microsoft Excel
+* Microsoft Excel
 
-Pivot Tables
+* Pivot Tables
 
-Pivot Charts
+* Pivot Charts
 
-Slicers for Dynamic Filtering
+* Slicers for Dynamic Filtering
 
-Data Cleaning & Formatting
+* Data Cleaning & Formatting
 
-Conditional Formatting
+* Conditional Formatting
 
-GETPIVOTDATA formulas
+* GETPIVOTDATA formulas
 
-Dashboard Design & Layout Optimization
+* Dashboard Design & Layout Optimization
 
 📈 Key Insights Generated
 
-Women customers contribute a higher percentage of total sales.
+* Women customers contribute a higher percentage of total sales.
 
-Certain states generate significantly higher revenue compared to others.
+* Certain states generate significantly higher revenue compared to others.
 
-Online marketplaces (Amazon, Myntra, Ajio) dominate sales distribution.
+* Online marketplaces (Amazon, Myntra, Ajio) dominate sales distribution.
 
-Monthly sales trends show peak performance in specific seasons.
+* Monthly sales trends show peak performance in specific seasons.
 
-Majority of orders are successfully delivered with minimal cancellations.
+* Majority of orders are successfully delivered with minimal cancellations.
 
-Adult age group contributes the largest share of revenue.
+* Adult age group contributes the largest share of revenue.
 
 📂 Dataset Features
 
-31,047 transactions
+* 31,047 transactions
 
-Customer demographics (Age, Gender, Age Group)
+* Customer demographics (Age, Gender, Age Group)
 
-Multi-channel sales data
+* Multi-channel sales data
 
-Category & Size distribution
+* Category & Size distribution
 
-Geographic shipping details (City, State)
+* Geographic shipping details (City, State)
 
-Order status tracking
+* Order status tracking
 
-B2B & B2C classification
+* B2B & B2C classification
 
 💡 Business Value
 
-This dashboard helps:
+* This dashboard helps:
 
-Retail managers monitor performance in real time
+* Retail managers monitor performance in real time
 
-Identify high-performing markets
+* Identify high-performing markets
 
-Improve inventory planning
+* Improve inventory planning
 
-Optimize marketing strategies
+* Optimize marketing strategies
 
-Make data-driven decisions
+* Make data-driven decisions
 
 🚀 Skills Demonstrated
 
-Data Analysis
+* Data Analysis
 
-Business Intelligence
+* Business Intelligence
 
-Dashboard Design
+* Dashboard Design
 
-Retail Sales Analytics
+* Retail Sales Analytics
 
-Excel Automation
+* Excel Automation
 
 Data Visualization
 
