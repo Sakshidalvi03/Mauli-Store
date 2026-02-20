@@ -109,6 +109,6 @@ Compare B2B vs B2C sales performance
 
 * Excel Automation
 
-Data Visualization
+* Data Visualization
 
-Analytical Thinking
+* Analytical Thinking
