@@ -1,11 +1,7 @@
 🛍️ Mauli Store Sales Analysis Dashboard (Excel BI Project)
 📌 Project Overview
 
-The Mauli Store Sales Analysis Dashboard is an interactive Excel-based Business Intelligence project designed to analyze retail sales data and generate actionable business insights.
-
-This project focuses on data cleaning, transformation, KPI analysis, and dynamic dashboard creation using Microsoft Excel tools such as Pivot Tables, Charts, and Slicers.
-
-The dataset contains over 31,000+ sales transactions, covering customer demographics, sales channels, order status, and geographic performance.
+The Mauli Store Sales Analysis Dashboard is an interactive Excel-based Business Intelligence project designed to analyze retail sales data and generate actionable business insights.This project focuses on data cleaning, transformation, KPI analysis, and dynamic dashboard creation using Microsoft Excel tools such as Pivot Tables, Charts, and Slicers.The dataset contains over 31,000+ sales transactions, covering customer demographics, sales channels, order status, and geographic performance.
 
 🎯 Project Objectives
 
