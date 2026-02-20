@@ -9,17 +9,17 @@ The dataset contains over 31,000+ sales transactions, covering customer demograp
 
 🎯 Project Objectives
 
-Analyze overall sales performance
+*Analyze overall sales performance
 
-Identify top-performing sales channels
+*Identify top-performing sales channels
 
-Compare sales by gender and age group
+*Compare sales by gender and age group
 
-Track monthly sales trends
+*Track monthly sales trends
 
-Identify high-performing states and cities
+*Identify high-performing states and cities
 
-Evaluate order status distribution (Delivered, Cancelled, etc.)
+*Evaluate order status distribution (Delivered, Cancelled, etc.)
 
 Compare B2B vs B2C sales performance
 
