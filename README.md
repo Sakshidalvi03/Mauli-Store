@@ -20,10 +20,6 @@ The Mauli Store Sales Analysis Dashboard is an interactive Excel-based Business 
 Compare B2B vs B2C sales performance
 
 
-## 🖼 Dashboard Preview
-![Dashboard Screenshot](./Mauli Store.png)
-
-
 📊 Key KPIs Tracked
 
 💰 Total Revenue
@@ -101,6 +97,12 @@ Compare B2B vs B2C sales performance
 * Optimize marketing strategies
 
 * Make data-driven decisions
+
+
+
+## 🖼 Dashboard Preview
+![Dashboard Screenshot](Mauli Store.png)
+
 
 🚀 Skills Demonstrated
 
