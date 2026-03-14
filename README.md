@@ -27,7 +27,7 @@ Compare B2B vs B2C sales performance
 
 ## 🖼 Dashboard Preview
 
-![Mauli Store Sales Dashboard](Mauli_Store.png)
+![Mauli Store Sales Dashboard](MAULISTORE.png)
 
 📊 Key KPIs Tracked
 
