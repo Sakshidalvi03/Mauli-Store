@@ -93,3 +93,18 @@ This dashboard helps businesses:
 ---
 
 ## 📁 Project Structure
+
+---
+
+## ⭐ How to Use
+1. Download the Excel file  
+2. Open in Microsoft Excel  
+3. Use slicers to interact with the dashboard  
+4. Analyze insights dynamically  
+
+---
+
+## 📌 Author
+**Sakshi Dalvi**
+
+
